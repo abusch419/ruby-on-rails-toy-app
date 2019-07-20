@@ -1,0 +1,7 @@
+Started GET "/" for 127.0.0.1 at 2019-07-20 12:17:28 -0400
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 218ms (Views: 4.8ms)
+
+
